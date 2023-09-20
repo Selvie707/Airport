@@ -2,6 +2,8 @@
 
 Welcome to the Airport App, a sophisticated application that leverages CRUD (Create, Read, Update, Delete) operations in conjunction with an SQLite database to present a comprehensive list of airports. This repository encapsulates the development of a user-friendly interface for managing airport data effortlessly.
 
+![MockUp](https://github.com/Selvie707/Airport/assets/113976495/dc759f11-c0d0-4bfb-843e-67507422bd10)
+
 ## Features
 
 - **Airport Overview**: Effortlessly access and review a curated list of airports.
