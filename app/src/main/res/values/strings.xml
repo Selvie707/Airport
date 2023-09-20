@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Airport</string>
+    <string name="addAirplaneContainer">Add Airport Data</string>
+    <string name="theme_night">Night Mode</string>
+    <string name="toastNoData">No Data</string>
+    <string name="editTitle">Edit Airport Data</string>
+    <string name="alertTitle">Attention Please</string>
+    <string name="alertMessage">You have selected %1$s. Choose the action that you want</string>
+    <string name="alertOptI">Delete</string>
+    <string name="alertOptIFailed">Failed to delete data</string>
+    <string name="alertOptISuccess">Successfully deleted data</string>
+    <string name="alertOptII">Edit</string>
+    <string name="errorEmptyInput">Fill this section</string>
+    <string name="failedAddData">Add data failed</string>
+    <string name="failedEditData">Edit data failed</string>
+    <string name="successedEditData">Edit data success</string>
+    <string name="successedAddData">Add data success</string>
+    <string name="airportNameContainer">Airport Name</string>
+    <string name="airportCityContainer">Airport City</string>
+    <string name="airportAddressContainer">Airport Address</string>
+    <string name="addContainer">ADD</string>
+    <string name="editContainer">EDIT</string>
+    <string name="idContainer">ID</string>
+    <string name="airportCityAddressContainer">Airport Address, City</string>
+    <string name="fabDesc">Add floating action button</string>
+    <string name="splashScreenTitle">WELCOME TO AIRPORT</string>
+    <string name="airportList">Airport List</string>
+</resources>
